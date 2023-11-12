@@ -45,7 +45,7 @@ int main() {
         cout << "D. Display a book" << endl;
         cout << "F. Find a book" << endl;
         cout << "E. Exit" << endl;
-        cout << "Enter your choice HERE => ";
+        cout << "Enter your choice HERE => ";  //user prompt
         cin >> choice;
 
         switch (choice) {
